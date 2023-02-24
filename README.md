@@ -1,7 +1,7 @@
 
 # Utilizing Multi-Layer Networks for Tic-Tac-Toe Move Prediction:
 
-This project aims to utilize multi-layer neural networks (MLN) for predicting the next move in a game of Tic-Tac-Toe.
+This project aims to utilize multi-layer neural networks (MLN) for predicting the next move in a game of Tic-Tac-Toe
 
 ## Approach for Training Data Creation
 The training data was created by simulating a large number of Tic-Tac-Toe games. At each turn, the current state of the board was used as input features and the next move was recorded as the corresponding label. The collected data was split into training and testing sets and was used to train the MLN.
